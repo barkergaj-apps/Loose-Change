@@ -2,7 +2,7 @@
    LOOSE CHANGE — CORE LOGIC
 ============================================ */
 
-const GOOGLE_PLACES_API_KEY = "AIzaSyC5KT6mE8TVO-eDgcSbCVtzsDbBu6d2WpU";
+const GOOGLE_PLACES_API_KEY = "INSERT RESTRICTED KEY";
 
 /* ============================================
    ELEMENTS
